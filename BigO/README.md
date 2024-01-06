@@ -1,4 +1,4 @@
-# What is Big O
+# What is Big O (Time & Space complexity)
 
 + Big O is a way to categorize your algorithms time or memory requirements based on input
 + It is not meant to be an exact measurement
@@ -17,3 +17,4 @@
 + To look for loops that iterates over the input
 
 2. We are not trying to get exact time of growth but to understand ***HOW*** input grows
+3. In the case of an job interview, rarely will you be asked for the best or average case scenario.
