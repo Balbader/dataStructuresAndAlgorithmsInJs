@@ -9,5 +9,5 @@
     + As your input grows, how fast does computation or memory grow ?
 
 
-## Important concepts:
-    + Growth is with respect to the input
+#### Important concepts:
+    1. Growth is with respect to the input
