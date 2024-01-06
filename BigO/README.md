@@ -11,3 +11,6 @@
 
 #### Important concepts:
     1. Growth is with respect to the input
+
+The easiest way to tell the Big O complexity of anything is:
++ To look for loops that iterates over the input
