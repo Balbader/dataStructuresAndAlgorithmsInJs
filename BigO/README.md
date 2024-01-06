@@ -16,6 +16,6 @@
 1. The easiest way to tell the Big O complexity of anything is:
 + To look for loops that iterates over the input
 
-2. We are not trying to get exact time of growth but to understand how input grows
+2. We are not trying to get exact time of growth but to understand ***HOW*** input grows
 
 
