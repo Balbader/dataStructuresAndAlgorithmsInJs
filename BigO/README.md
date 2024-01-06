@@ -11,7 +11,7 @@
 #### Important concepts:
     1. Growth is with respect to the input
     2. Always drop constants
-    3. Worst case is **usually** the way we measure
+    3. Worst case is usually the way we measure
 
 1. The easiest way to tell the Big O complexity of anything is:
 + To look for loops that iterates over the input
