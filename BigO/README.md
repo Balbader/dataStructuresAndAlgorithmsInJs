@@ -11,6 +11,11 @@
 
 #### Important concepts:
     1. Growth is with respect to the input
+    2. Always drop constants
 
-The easiest way to tell the Big O complexity of anything is:
+1. The easiest way to tell the Big O complexity of anything is:
 + To look for loops that iterates over the input
+
+2. We are not trying to get exact time of growth but to understand how input grows
+
+
