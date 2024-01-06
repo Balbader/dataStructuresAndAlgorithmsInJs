@@ -6,7 +6,7 @@
 + Instead, it is meant to generalize the growth of your algorithm or ***HOW*** the input grows
 
 ### Big O aims to answer the following :
-    + As your input grows, how fast does computation or memory grow ?
+    As your input grows, how fast does computation or memory grow ?
 
 #### Important concepts:
     1. Growth is with respect to the input
