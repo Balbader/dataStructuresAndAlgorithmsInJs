@@ -1,1 +1,0 @@
-let finalArray = new Array();
